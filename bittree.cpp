@@ -27,7 +27,7 @@ ll rg(ll l,ll r)
 	else
 	return query(r)-query(l-1);
 }
-
+/**
 int main()
 {
 	ll i;
@@ -55,4 +55,6 @@ int main()
 		q[x].erase(right);
 	}
 	cout<<ans;
-}
+}**/
+// a really good problem
+// https://codeforces.com/contest/830/problem/B
